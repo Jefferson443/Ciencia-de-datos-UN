@@ -9,4 +9,4 @@ Ensayo sobre regresión lineal [nbview](https://nbviewer.jupyter.org/github/Jeff
 
 Manipulación de datos con Pandas [Jupyter Notebook](https://github.com/Jefferson443/Ciencia-de-datos-UN/blob/main/Tareas%20UN/Introducci%C3%B3n%20a%20Python.ipynb)
 
-Regresión y clasificación [Jupyter Notebook]()
+Regresión y clasificación [Jupyter Notebook](https://github.com/Jefferson443/Ciencia-de-datos-UN/blob/main/Tareas%20UN/Regresi%C3%B3n%20y%20clasificaci%C3%B3n.ipynb)
